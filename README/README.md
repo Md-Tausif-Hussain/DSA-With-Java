@@ -67,8 +67,8 @@ Big thanks to **Shradha Didi** and the Apna College team for such a structured a
 
 Feel free to connect if you're also learning DSA or want to collaborate:
 
-- [LinkedIn](https://www.linkedin.com/)
-- [GitHub](https://github.com/)
+- [LinkedIn](https://www.linkedin.com/in/mdtausifhussain/)
+- [GitHub](https://github.com/Md-Tausif-Hussain)
 
 ---
 
