@@ -1,9 +1,13 @@
 import java.util.*;
+
 public class uppercase {
+  
   public static String toUppercase( String s){
+    
     StringBuilder sb = new StringBuilder("");
     char ch = Character.toUpperCase(s.charAt(0));
     sb.append(ch);
+    
     for(int i = 1 ; i<s.length() ; i++){
         if( s.charAt(i) == ' '  &&  i < s.length()-1 )
         {
