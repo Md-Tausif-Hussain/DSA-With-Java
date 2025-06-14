@@ -1,7 +1,6 @@
 import java.util.*;
 /*Time complexity of this brute force code is BigO of n^3 
- * which is very slow 
- */
+  which is very slow */
 public class BruteForce {
 
     public static void printmaxsubArray(int n[]){
