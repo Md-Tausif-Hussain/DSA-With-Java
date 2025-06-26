@@ -15,11 +15,11 @@ public class BruteForce {
                 int end = j;
                 currsum = 0;
                 for(int k = start; k<= end; k++){
-                    //System.out.print(n[k]+" ");
+                    //System.out.print(n[k]+" ")
                     currsum += n[k]; 
                 }
                 System.out.print(currsum);
-               // total++;
+               // total++
                if(maxsum < currsum){
                 maxsum  = currsum;
                }
